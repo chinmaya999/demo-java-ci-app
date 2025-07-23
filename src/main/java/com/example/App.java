@@ -2,7 +2,8 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from demo-java-ci-app!");
+        System.out.println("Welcome to my deployed app!");
+
     }
 }
 
